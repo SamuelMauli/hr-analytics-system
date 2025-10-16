@@ -1,0 +1,15 @@
+Age
+MonthlyIncome
+YearsAtCompany
+DistanceFromHome
+NumberOfPromotions
+WorkLifeBalance_Encoded
+JobSatisfaction_Encoded
+PerformanceRating_Encoded
+EducationLevel_Encoded
+Gender_Encoded
+JobRole_Encoded
+MaritalStatus_Encoded
+IncomePerYearOfService
+TenureToAgeRatio
+PromotionRate

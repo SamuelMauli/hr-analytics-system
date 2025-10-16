@@ -1,0 +1,27 @@
+{
+  "best_model": "logistic_regression",
+  "training_date": "2025-10-16T18:09:47.381073",
+  "results": {
+    "logistic_regression": {
+      "accuracy": 0.7565,
+      "precision": 0.4291970802919708,
+      "recall": 0.7538461538461538,
+      "f1": 0.5469767441860465,
+      "roc_auc": 0.8370711896798855
+    },
+    "random_forest": {
+      "accuracy": 0.7955,
+      "precision": 0.48096192384769537,
+      "recall": 0.6153846153846154,
+      "f1": 0.5399325084364455,
+      "roc_auc": 0.8375521579869407
+    },
+    "xgboost": {
+      "accuracy": 0.817,
+      "precision": 0.5431654676258992,
+      "recall": 0.3871794871794872,
+      "f1": 0.45209580838323354,
+      "roc_auc": 0.8374502309284918
+    }
+  }
+}
