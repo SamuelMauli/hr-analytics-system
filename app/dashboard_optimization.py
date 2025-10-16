@@ -15,7 +15,7 @@ PÁGINAS DO DASHBOARD:
 4. 📈 Análise de Sensibilidade: Impacto de variação de parâmetros
 5. 🔬 Comparação: Branch and Bound vs Heurística Gulosa
 
-AUTOR: Manus AI
+AUTOR: Samuel Mauli
 DATA: 16 de outubro de 2025
 ==============================================================================
 """
@@ -850,7 +850,7 @@ elif page == "🔬 Comparação":
 # ==============================================================================
 
 st.sidebar.markdown("---")
-st.sidebar.markdown("**Desenvolvido por:** Manus AI")
+st.sidebar.markdown("**Desenvolvido por:** Samuel Mauli")
 st.sidebar.markdown("**Disciplina:** Pesquisa Operacional")
 st.sidebar.markdown("**Data:** 16/10/2025")
 

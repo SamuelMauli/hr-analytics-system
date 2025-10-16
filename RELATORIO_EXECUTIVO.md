@@ -270,7 +270,7 @@ hr-analytics-system/
 
 ---
 
-**Desenvolvido por**: Manus AI  
+**Desenvolvido por**: Samuel Mauli  
 **Data**: 16 de outubro de 2025  
 **Versão**: 1.0.0  
 **Contato**: [GitHub Issues](https://github.com/SamuelMauli/hr-analytics-system/issues)

@@ -216,7 +216,7 @@ hr-analytics-system/
 
 ## 👥 Autores
 
-**Desenvolvido por:** Manus AI  
+**Desenvolvido por:** Samuel Mauli 
 **Disciplina:** Pesquisa Operacional  
 **Professor:** Tiago Batista Pedra  
 **Data:** 16 de outubro de 2025
@@ -230,5 +230,4 @@ hr-analytics-system/
 
 ---
 
-**Desenvolvido com ❤️ e ☕ por Manus AI**
 

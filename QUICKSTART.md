@@ -177,6 +177,3 @@ netstat -ano | findstr :8000  # Windows
 Este projeto está sob a licença MIT. Veja [LICENSE](LICENSE) para mais detalhes.
 
 ---
-
-**Desenvolvido com ❤️ por Manus AI**
-

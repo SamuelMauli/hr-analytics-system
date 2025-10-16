@@ -116,7 +116,7 @@ PRÓXIMOS PASSOS
 
 DESENVOLVIDO POR
 ----------------
-Manus AI
+Samuel Mauli
 Data: 16 de outubro de 2025
 Versão: 1.0.0
 

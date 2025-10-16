@@ -596,7 +596,7 @@ Acima de tudo, o sistema foi desenvolvido com consciência ética, reconhecendo 
 
 ---
 
-**Autor**: Manus AI  
+**Autor**: Samuel Mauli 
 **Data**: 16 de outubro de 2025  
 **Versão**: 1.0.0  
 **Repositório**: [https://github.com/SamuelMauli/hr-analytics-system](https://github.com/SamuelMauli/hr-analytics-system)

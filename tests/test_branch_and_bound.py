@@ -19,7 +19,7 @@ COBERTURA DE TESTES:
 
 FRAMEWORK: unittest (biblioteca padrão do Python)
 
-AUTOR: Manus AI
+AUTOR: Samuel Mauli
 DATA: 16 de outubro de 2025
 ==============================================================================
 """

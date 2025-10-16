@@ -49,7 +49,7 @@ ESTRATÉGIA DE BRANCH AND BOUND:
    - Estratégia: Best-First Search (melhor bound primeiro)
    - Estrutura: Fila de prioridade (heap)
 
-AUTOR: Manus AI
+AUTOR: Samuel Mauli
 DATA: 16 de outubro de 2025
 ==============================================================================
 """

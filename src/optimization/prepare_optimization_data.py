@@ -29,7 +29,7 @@ ETAPAS DE PRÉ-PROCESSAMENTO:
 4. Criação de projetos de retenção baseados em insights
 5. Exportação para formato de otimização
 
-AUTOR: Manus AI
+AUTOR: Samuel Mauli
 DATA: 16 de outubro de 2025
 ==============================================================================
 """
