@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Programa de Melhoria de Satisfação no Trabalho",
+    "cost": 120.0,
+    "impact": 25.0,
+    "category": "Engajamento",
+    "justification": "Job Satisfaction é o fator mais correlacionado com attrition"
+  },
+  {
+    "id": 2,
+    "name": "Iniciativa de Work-Life Balance",
+    "cost": 80.0,
+    "impact": 18.0,
+    "category": "Bem-estar",
+    "justification": "Work-Life Balance é o segundo fator mais importante"
+  },
+  {
+    "id": 3,
+    "name": "Plano de Desenvolvimento de Carreira",
+    "cost": 60.0,
+    "impact": 15.0,
+    "category": "Desenvolvimento",
+    "justification": "Falta de promoções está correlacionada com saída"
+  },
+  {
+    "id": 4,
+    "name": "Programa de Reconhecimento e Recompensas",
+    "cost": 50.0,
+    "impact": 12.0,
+    "category": "Reconhecimento",
+    "justification": "Performance Rating baixo aumenta risco de saída"
+  },
+  {
+    "id": 5,
+    "name": "Ajuste Salarial Competitivo",
+    "cost": 200.0,
+    "impact": 20.0,
+    "category": "Compensação",
+    "justification": "Monthly Income tem correlação moderada com attrition"
+  },
+  {
+    "id": 6,
+    "name": "Programa de Mentoria e Coaching",
+    "cost": 40.0,
+    "impact": 10.0,
+    "category": "Desenvolvimento",
+    "justification": "Suporte ao desenvolvimento reduz rotatividade"
+  },
+  {
+    "id": 7,
+    "name": "Flexibilização de Horários e Home Office",
+    "cost": 30.0,
+    "impact": 14.0,
+    "category": "Bem-estar",
+    "justification": "Distância de casa impacta decisão de permanecer"
+  },
+  {
+    "id": 8,
+    "name": "Treinamento e Capacitação Técnica",
+    "cost": 70.0,
+    "impact": 13.0,
+    "category": "Desenvolvimento",
+    "justification": "Investimento em skills aumenta engajamento"
+  },
+  {
+    "id": 9,
+    "name": "Melhoria do Ambiente de Trabalho",
+    "cost": 90.0,
+    "impact": 16.0,
+    "category": "Infraestrutura",
+    "justification": "Ambiente físico influencia satisfação geral"
+  },
+  {
+    "id": 10,
+    "name": "Programa de Saúde Mental e Bem-Estar",
+    "cost": 55.0,
+    "impact": 11.0,
+    "category": "Bem-estar",
+    "justification": "Saúde mental é fator crítico para retenção"
+  },
+  {
+    "id": 11,
+    "name": "Sistema de Feedback Contínuo",
+    "cost": 35.0,
+    "impact": 9.0,
+    "category": "Comunicação",
+    "justification": "Comunicação clara reduz insatisfação"
+  },
+  {
+    "id": 12,
+    "name": "Programa de Diversidade e Inclusão",
+    "cost": 65.0,
+    "impact": 12.0,
+    "category": "Cultura",
+    "justification": "Ambiente inclusivo aumenta pertencimento"
+  },
+  {
+    "id": 13,
+    "name": "Benefícios Flexíveis Personalizados",
+    "cost": 100.0,
+    "impact": 17.0,
+    "category": "Benefícios",
+    "justification": "Benefícios customizados atendem necessidades individuais"
+  },
+  {
+    "id": 14,
+    "name": "Programa de Integração para Novos Funcionários",
+    "cost": 45.0,
+    "impact": 10.0,
+    "category": "Onboarding",
+    "justification": "Funcionários novos têm maior taxa de rotatividade"
+  },
+  {
+    "id": 15,
+    "name": "Iniciativa de Team Building e Cultura",
+    "cost": 40.0,
+    "impact": 8.0,
+    "category": "Cultura",
+    "justification": "Senso de comunidade aumenta retenção"
+  }
+]
